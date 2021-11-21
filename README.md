@@ -1,6 +1,8 @@
 # Colin-redux-store
 
 ## Description
+This e-commerce app platform was factored from react to redux.
+Redux is a predictable state container for JavaScript apps, and can be used together with react app.
 
 ## User Story
 AS a senior engineer working on an e-commerce platform
@@ -18,8 +20,17 @@ SO THAT my website's state management is taken out of the React ecosystem
 https://github.com/ColinNebula/colin-redux-store/tree/main
 
 ## Project Screenshot
+![project-scrennshot_01](https://user-images.githubusercontent.com/57843842/142781182-04e730f0-a3dc-4ec3-bc46-395af6bd0717.jpg)
+
+![project-scrennshot_02](https://user-images.githubusercontent.com/57843842/142781187-690b7264-8dab-4d7f-8aa9-0ae7ade50645.jpg)
 
 ## Markup
+![22-state-homework-demo-01](https://user-images.githubusercontent.com/57843842/142780755-a53baafd-d20e-4098-bc7e-834ecc5525f7.gif)
+
+![22-state-homework-demo-02](https://user-images.githubusercontent.com/57843842/142780762-bb358416-3d79-421f-8038-1ed5da49a6cf.gif)
+
+![22-state-homework-demo-03](https://user-images.githubusercontent.com/57843842/142780764-f595f030-3b7c-4224-a747-33ced86d7938.gif)
+
 
 ## Installation
 * Download or clone the repository
@@ -28,6 +39,8 @@ https://github.com/ColinNebula/colin-redux-store/tree/main
 
 ## Author
 Colin Nebula
+## License
+This application is covered by [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Acceptance Criteria
 GIVEN an e-commerce platform that uses Redux to manage global state

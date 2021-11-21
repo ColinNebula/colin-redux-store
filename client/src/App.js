@@ -1,5 +1,4 @@
 // Imports 
-import { StoreProvider } from "./utils/GlobalState";
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import {
@@ -18,6 +17,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Nav from './components/Nav';
 import OrderHistory from './pages/OrderHistory';
+// import redux
 import {Provider} from 'react-redux';
 import store from './utils/store'
 
