@@ -14,8 +14,8 @@ SO THAT my website's state management is taken out of the React ecosystem
   * [Author](#author)
   * [License](#license)
 
-## Project URL deployed to Github Pages
-
+## Project URL deployed to Heroku
+https://agile-citadel-05491.herokuapp.com/
 ## Project Github Repository
 https://github.com/ColinNebula/colin-redux-store/tree/main
 
