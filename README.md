@@ -41,6 +41,7 @@ https://github.com/ColinNebula/colin-redux-store/tree/main
 Colin Nebula
 ## License
 This application is covered by [MIT](https://opensource.org/licenses/MIT) license.
+[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
 
 ## Acceptance Criteria
 GIVEN an e-commerce platform that uses Redux to manage global state
