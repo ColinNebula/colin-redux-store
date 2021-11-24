@@ -1,7 +1,7 @@
 # Colin-redux-store
 
 ## Description
-This e-commerce app platform was factored from react to redux.
+This e-commerce app platform was refactored from react to redux.
 Redux is a predictable state container for JavaScript apps, and can be used together with react app.
 
 ## User Story
