@@ -1,8 +1,8 @@
-# Colin-redux-store
+## Colin Redux Store
 
 ## Description
-This e-commerce app platform was refactored from react to redux.
-Redux is a predictable state container for JavaScript apps, and can be used together with react app.
+This e-commerce app platform was re-factored from react to redux.
+Redux is a predictable state container for JavaScript apps, and can be used in conjunction with react.
 
 ## User Story
 AS a senior engineer working on an e-commerce platform
@@ -36,13 +36,6 @@ https://github.com/ColinNebula/colin-redux-store/tree/main
 * Download or clone the repository
 * npm run seed/ to seed database
 * npm run develop to run the server
-
-## Author
-Colin Nebula
-## License
-This application is covered by [MIT](https://opensource.org/licenses/MIT) license.
-[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
-
 ## Acceptance Criteria
 GIVEN an e-commerce platform that uses Redux to manage global state
 WHEN I review the app’s store
@@ -55,3 +48,9 @@ WHEN I review the way the app extracts state data from the store
 THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
+
+## Author
+Colin Nebula
+## License
+[MIT](https://opensource.org/licenses/MIT) license.
+[![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
