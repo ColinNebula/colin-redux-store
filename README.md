@@ -52,5 +52,4 @@ THEN I find that the app uses Redux instead of the Context API
 ## Author
 Colin Nebula
 ## License
-[MIT](https://opensource.org/licenses/MIT) license.
 [![license](https://img.shields.io/badge/license-MIT-brightgreen)](https://shields.io)
